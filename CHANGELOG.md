@@ -5,3 +5,4 @@
 - 2023-10-09: clean up unused imports
 - 2023-10-10: fix nonce handling in mint
 - 2023-10-10: update license headers
+- 2023-10-10: add metadata generation script
