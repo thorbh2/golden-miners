@@ -9,3 +9,4 @@
 - 2023-10-12: clean up unused imports
 - 2023-10-12: update README with setup instructions
 - 2023-10-14: clean up unused imports
+- 2023-10-18: document deployment steps
