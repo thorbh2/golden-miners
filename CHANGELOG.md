@@ -10,3 +10,4 @@
 - 2023-10-12: update README with setup instructions
 - 2023-10-14: clean up unused imports
 - 2023-10-18: document deployment steps
+- 2023-11-04: add metadata generation script
